@@ -6,4 +6,4 @@ We were also tasked with honoring the Scout's Rule of working with existing code
 
 By the end of the project, we were left with a webpage that looked exactly the same as before, but the code was much cleaner, functioning and accessible. The final product can be seen below.
 
-![finalWebpageImage](https://raw.githubusercontent.com/jonathanparker21/codeRefactorAccessibility/main/horiseon-social-solutions-webpage.jpg)
+![horiseon-social-solutions-webpage](https://user-images.githubusercontent.com/90992593/137645993-01ce0653-5664-4ded-beae-f871ec7413a5.jpg)
